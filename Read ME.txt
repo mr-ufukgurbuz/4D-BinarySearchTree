@@ -1,0 +1,16 @@
+The "Windows SDK" was used in this project for GUI. If it isn't installed on your computer, you can install it.
+
+for Windows Vista;
+https://www.microsoft.com/en-us/download/details.aspx?id=23719
+
+for Windows 7;
+https://www.microsoft.com/en-us/download/details.aspx?id=8279
+
+for Windows 8;
+https://msdn.microsoft.com/en-us/windows/desktop/hh852363.aspx
+
+for Windows 8.1;
+https://msdn.microsoft.com/en-us/windows/desktop/bg162891.aspx
+
+for Windows 10;
+https://dev.windows.com/en-us/downloads/windows-10-sdk
